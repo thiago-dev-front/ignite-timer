@@ -1,6 +1,14 @@
 {
     "extends" : "@rocketseat/eslint-config/react",
+<<<<<<< HEAD
     "rules": {
         "@typescript-eslint/no-explicit-any": "off"
     }
 }
+=======
+     "rules": {
+        "@typescript-eslint/no-explicit-any": "off"
+    }
+}
+}
+>>>>>>> 10a0c7b0f9b2cf471cf61d663cfdec344172dae2
